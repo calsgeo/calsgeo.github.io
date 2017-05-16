@@ -1,0 +1,86 @@
+body .no-padding {
+    padding: 0;
+    margin: 0;
+}
+
+body .margin-5 {
+    padding: 5;
+    margin-bottom : 10;
+}
+
+html,
+body {
+    font-family: 'Open Sans', sans-serif;
+    width: 100%;
+    overflow: hidden;
+    height: 100vh;
+    margin: 0;
+}
+
+/*
+    MAPA
+*/
+.map {
+    width: auto;
+    height: 100vh;
+}
+
+.leaflet-tooltip {
+    padding: 2px;
+    font-size: 10px;
+}
+
+/*
+    INFORMACION
+*/
+.info {
+    padding: 6px 8px;
+    font: 16px/18px Arial, Helvetica, sans-serif;
+    text-align: right;
+    background: white;
+    background: rgba(255, 255, 255, 0.8);
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    min-width: 200px;
+}
+
+.image a {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    width: 226px;
+    height: 80px;
+    z-index: 999;
+    background-image: url('logo2.png');
+    background-color: rgba(255, 255, 255, 0.4);
+    background-size: 226px 80px;
+}
+
+/*
+    LEYENDA
+*/
+.legend {
+    text-align: left;
+    line-height: 18px;
+    color: #555;
+}
+
+.legend i {
+    width: 18px;
+    height: 18px;
+    float: left;
+    margin-left: 10px;
+    margin-right: 20px;
+    opacity: 0.7;
+}
+
+/*
+    VOLVER
+*/
+.volver-control {
+    width: 80px;
+    height: 100px;
+    font: 14px/16px Arial, Helvetica, sans-serif;
+    text-align: center;
+    z-index: 800;
+}
