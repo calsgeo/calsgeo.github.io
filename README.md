@@ -8,7 +8,7 @@
 * Density map of homicide statistics in Colombia by Departments or Municipalities <https://calsgeo.github.io/densidades/>
 * Mapa hibrido base y densidades por departamentos y municipio <https://calsgeo.github.io/admin_densidades/>
 * Cluster Map with filters and search by keywords:  <https://calsgeo.github.io/lideres/> <https://calsgeo.github.io/lideres_csv/>
-* Mapa de cluster y estadisticas usando Bootstrap y formularios dinamicos <https://calsgeo.github.io/observadhores/observatorios/>
-* Integrado de un mapa de calor y cluster <https://calsgeo.github.io/odsc/heatcluster/>
-* Mapa de valores y corropletas <https://calsgeo.github.io/odsc/iscb/>
-* 2D map for Location inside the Military University Campus in Colombia. <https://calsgeo.github.io/Campus/>
+* Clusters and Statistical Map using bootsrap and dynamic forms <https://calsgeo.github.io/observadhores/observatorios/>
+* Hotspot and Cluster Map <https://calsgeo.github.io/odsc/heatcluster/>
+* Choropleth map <https://calsgeo.github.io/odsc/iscb/>
+* Campus map of the Military University "Nueva Granada" in Colombia. <https://calsgeo.github.io/Campus/>
